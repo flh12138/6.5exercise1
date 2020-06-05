@@ -8,6 +8,7 @@ VideoCapture createInput(bool useCamera, std::string videoPath);
 
 
 
+
 void segColor();
 int kMeansDemo();
 
